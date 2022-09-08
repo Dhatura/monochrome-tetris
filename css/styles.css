@@ -1,0 +1,23 @@
+* {
+  margin: 0 auto;
+  font-family: "Inter", "Arial", sans-serif;
+  color: #7D7F2A;
+}
+
+body {
+  min-width: 100vw;
+  min-height: 100vh;
+  background: url(../images/background_1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.header {
+  background-color: rgba(135, 127, 128, .5);
+}
+
+.header__title {
+  text-align: center;
+  padding: 20px 0;
+}
+
